@@ -11,7 +11,7 @@ public class MintNFT : MonoBehaviour
 {
 
     // Start is called before the first frame update
-    private string chain = "BSC";
+    private string chain = "ETH";
     private string network = "Testnet"; // mainnet ropsten kovan rinkeby goerli
     private string account;
     public TMP_Text theCID;
